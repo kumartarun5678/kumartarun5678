@@ -10,6 +10,8 @@
 
 
 ## 🌐 Socials:
+https://www.linkedin.com/mwlite/in/tarun-kumar-44341322b
+https://www.instagram.com/ta_run_ku_/
 
 # 💻 Tech Stack:
 
