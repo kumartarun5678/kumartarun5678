@@ -15,11 +15,7 @@ https://www.instagram.com/ta_run_ku_/ <br>
 https://kumartarun5678.github.io/Portfolio/
 
 # 💻 Tech Stack:
-
-<!--[![](https://visitcount.itsvg.in/api?id=Aditya6112&icon=6&color=3)](https://visitcount.itsvg.in)-->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+c/c++ , Python, HTML, CSS, JavaScript, reactJS, Node.js, MongoDB, Data Structures and Algorithms, DBMS, Network, operating system.
 
 	
 
