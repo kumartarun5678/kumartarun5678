@@ -15,14 +15,14 @@ https://www.instagram.com/ta_run_ku_/ <br>
 https://kumartarun5678.github.io/Portfolio/
 
 # 💻 Tech Stack:
-java, c/c++ , Python, HTML, CSS, JavaScript, reactJS, Node.js, MongoDB, Data Structures and Algorithms, DBMS, Network, operating system.
+java, c/c++ , Python, HTML, CSS, JavaScript, reactJS, Node.js, MongoDB, Data Structures and Algorithms, DBMS, Network, operating system , AI & ML, Data Science.
 
 	
 
-### 📊 Stats
+# 📊 Stats
   
   
 
 | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumartarun5678&theme=dark" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumartarun5678&layout=compact&theme=radical" /></a> |
 |---|---|
-| LeetCode Stats <br> <a href="#"><img align="center" src="https://leetcode-stats-six.vercel.app/api?username=kumartarun5678&theme=dark" /></a> | CodeChef Stats <br> <a href="#"><img align="center" src="https://codechef-stats-six.vercel.app/api?username=kumartarun5678&theme=dark" /></a> |
+| LeetCode Stats <br> <a href="#"><img align="center" src="https://leetcode-stats-six.vercel.app/api?username=kumartarun5678&theme=dark" /></a> 
