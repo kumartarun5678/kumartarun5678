@@ -19,3 +19,9 @@ java, c/c++ , Python, HTML, CSS, JavaScript, reactJS, Node.js, MongoDB, Data Str
 
 	
 
+### 📊 Stats
+  
+
+| <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumartarun5678=dark" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumartarun5678&layout=compact&theme=radical" /></a> |
+|---|---|
+| LeetCode Stats <br> <a href="#"><img align="center" src="https://leetcode-stats-six.vercel.app/api?username=kumartarun5678&theme=dark" /></a> | Codewars Stats <a href="#"><img align="center" src="https://www.codewars.com/users/kumartarun5678/badges/large" /></a> |
