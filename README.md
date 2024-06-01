@@ -4,6 +4,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Namaste%2C+Welcome+to+Tarun's+Profile+;Active+Learner%2C+Fullstack+Developer+AI&ML" alt="Typing SVG" /></a>
 </p>
 <br>
+https://img.shields.io/github/views/kumartarun5678/view
+<br>
 <hr>
 💫 About Me:
 👋 Hi, I’m @kumartarun5678<br>👀 I’m interested in innovating things.<br>🌱 I’m currently working with programming languages Java, c,c++,python.<br>💞️ I’m looking to contribute on GitHub.<br>📫 How to reach me:- kumartarun5678@gmail.com<br>🚀 I’m currently open for an Intern or a new job opportunity, 
