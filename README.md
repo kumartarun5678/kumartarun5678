@@ -20,7 +20,7 @@
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/tarun-kumar-44341322b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <br>
 <a href="https://www.instagram.com/ta_run_ku_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> <br>
-<a href="https://kumartarun5678.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+<a href="https://port-folio-7h45.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
 
 # 💻 Tech Stack:
 Java, C/C++, Python, HTML, CSS, JavaScript, ReactJS, Node.js, MongoDB, Data Structures and Algorithms, DBMS, Network, Operating System, AI & ML, Data Science.
